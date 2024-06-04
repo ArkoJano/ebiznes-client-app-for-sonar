@@ -1,0 +1,1 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ArkoJano_ebiznes-client-app-for-sonar&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ArkoJano_ebiznes-client-app-for-sonar)
